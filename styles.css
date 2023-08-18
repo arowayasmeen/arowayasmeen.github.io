@@ -100,7 +100,7 @@ footer ul {
     opacity: 50%;
 }
 
-@media screen and (min-width: 745px) and (max-width: 1120px) {
+@media screen and (min-width: 1284px) and (max-width: 1848px) {
     body {
         background-image: url("images/bgtab.png");
         background-repeat: repeat;
@@ -121,7 +121,7 @@ footer ul {
 
 
 /* MOBILE RESPONSIVENESS */
-@media screen and (max-width: 745px) {
+@media screen and (max-width: 1284px) {
     body {
         background-image: url("images/bgmobile.jpg");
         background-repeat: repeat;
